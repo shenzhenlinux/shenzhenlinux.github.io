@@ -3,6 +3,8 @@
 Contact organizers, if you have something to share with Shenzhen Linux community
 by creating an issue at <https://github.com/shenzhenlinux/shenzhenlinux.github.io>
 
+There is also WeChat group. 还有微信群。
+
 ## Other resources
 
 - <https://groups.google.com/forum/#!topic/szlug>
